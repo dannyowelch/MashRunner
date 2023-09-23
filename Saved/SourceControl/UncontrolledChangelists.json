@@ -1,0 +1,36 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Projects/Unreal Engine/MashRunner/Content/Maps/MAP_Debug.umap",
+				"C:/Projects/Unreal Engine/MashRunner/Content/PaperAssets/Background/T_Field.uasset",
+				"C:/Projects/Unreal Engine/MashRunner/Content/PaperAssets/Goal/T_Goal_Connected.uasset",
+				"C:/Projects/Unreal Engine/MashRunner/Content/PaperAssets/Goal/T_Goal_Ripped.uasset",
+				"C:/Projects/Unreal Engine/MashRunner/Content/PaperAssets/Runner/T_Runner.uasset",
+				"C:/Projects/Unreal Engine/MashRunner/Content/PaperAssets/Runner/FB_Runner_Idle.uasset",
+				"C:/Projects/Unreal Engine/MashRunner/Content/PaperAssets/Runner/FB_Runner_Run.uasset",
+				"C:/Projects/Unreal Engine/MashRunner/Content/PaperAssets/Background/T_Field_Sprite.uasset",
+				"C:/Projects/Unreal Engine/MashRunner/Content/PaperAssets/Goal/T_Goal_Connected_Sprite.uasset",
+				"C:/Projects/Unreal Engine/MashRunner/Content/PaperAssets/Goal/T_Goal_Ripped_Sprite.uasset",
+				"C:/Projects/Unreal Engine/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_0.uasset",
+				"C:/Projects/Unreal Engine/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_1.uasset",
+				"C:/Projects/Unreal Engine/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_2.uasset",
+				"C:/Projects/Unreal Engine/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_3.uasset",
+				"C:/Projects/Unreal Engine/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_4.uasset",
+				"C:/Projects/Unreal Engine/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_5.uasset",
+				"C:/Projects/Unreal Engine/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_6.uasset",
+				"C:/Projects/Unreal Engine/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_7.uasset",
+				"C:/Projects/Unreal Engine/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_8.uasset",
+				"C:/Projects/Unreal Engine/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_9.uasset",
+				"C:/Projects/Unreal Engine/MashRunner/Content/Blueprints/BP_Runner.uasset",
+				"C:/Projects/Unreal Engine/MashRunner/Content/Input/IMC_Runner.uasset",
+				"C:/Projects/Unreal Engine/MashRunner/Content/Blueprints/GM_Runner.uasset",
+				"C:/Projects/Unreal Engine/MashRunner/Content/Input/Actions/IA_PowerLeft.uasset",
+				"C:/Projects/Unreal Engine/MashRunner/Content/Input/Actions/IA_PowerRight.uasset"
+			]
+		}
+	]
+}
